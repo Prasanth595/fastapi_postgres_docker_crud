@@ -1,6 +1,5 @@
 Here’s your README rewritten as clean, consistent Markdown. You can copy-paste this directly into `README.md` in your project root.
 
-```markdown
 # FastAPI CRUD API with PostgreSQL (Docker)
 
 A simple CRUD backend service built with **Python**, **FastAPI**, **SQLAlchemy**, and **PostgreSQL** running in a **Docker container**.
@@ -527,7 +526,6 @@ Feel free to adapt, extend, or integrate it into your own projects.
 ```
 
 If you tell me your exact folder name (e.g., you changed it from `fastapi_postgres_docker_crud`), I can adjust the README paths and commands to match exactly.
-
+```
 Sources:
-
-"# fastapi_postgres_docker_crud" 
+# [fastapi_postgres_docker_crud](https://github.com/Prasanth595/fastapi_postgres_docker_crud)
